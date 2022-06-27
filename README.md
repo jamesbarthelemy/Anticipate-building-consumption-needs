@@ -6,4 +6,8 @@ This project will focus on the city of Seattle that target to be a carbon-neutra
 
 # Problem description
 
-<img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/p3_desc.png" width="1200">
+<img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/p3_desc.png" width="800">
+
+# Modelization
+
+<img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/p3_model.png" width="800">
