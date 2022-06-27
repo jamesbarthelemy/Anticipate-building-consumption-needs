@@ -20,3 +20,4 @@ This project will focus on the city of Seattle that target to be a carbon-neutra
 
 ## CO2 emissions
 
+<img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/p3_res_co2.png" width="800">
