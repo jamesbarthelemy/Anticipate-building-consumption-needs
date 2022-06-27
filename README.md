@@ -24,4 +24,4 @@ This project will focus on the city of Seattle that target to be a carbon-neutra
 
 ## Energy Star score
 
-<img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/p3_ess.png" width="800">
+<img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/p3_ess.png" width="800" height="400">
